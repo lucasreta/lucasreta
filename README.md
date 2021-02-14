@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hello, friend!
+
+If you take a careful look at my feed, you'll notice a Game of Life glider crawling through. It may look a bit odd 
+at times, given that the feed is treated as a toroidal surface, so it will sometimes just be noticeable as some green dots 
+on the first and last row.
+
+This glider updates everyday at midnight. I wrote [an article on medium](https://lucasreta.medium.com/cligol-and-gifeegol-d5509a154bf6) 
+detailing how this was achieved.
 
 <!--
 **lucasreta/lucasreta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
